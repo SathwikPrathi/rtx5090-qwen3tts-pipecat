@@ -1,0 +1,8 @@
+torch>=2.3.0
+qwen-tts
+fastapi
+uvicorn
+aiohttp
+pipecat-ai
+numpy
+sounddevice
